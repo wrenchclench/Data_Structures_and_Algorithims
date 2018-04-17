@@ -26,12 +26,12 @@ public class SelectionSort {
         System.out.println();
     }
 
-    public static void main(String args[])
-    {
-        SelectionSort obj = new SelectionSort();
-        int array[] = {432,2115,112,8,78};
-        obj.selectionSort(array);
-        System.out.println("Sorted Array");
-        obj.printArray(array);
-    }
+//    public static void main(String args[])
+//    {
+//        SelectionSort obj = new SelectionSort();
+//        int array[] = {432,2115,112,8,78};
+//        obj.selectionSort(array);
+//        System.out.println("Sorted Array");
+//        obj.printArray(array);
+//    }
 }
